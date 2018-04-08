@@ -8,6 +8,6 @@ _Currently it has the following features_
 * 4x push buttons
 * 8x DIP switches
 * 1x Rotary Encorder
-* 1x variable resistors (fix name)
+* 1x variable potentiometer
 * Optional Pull up resistors (enabled by switch)
 * Small power distribution array of Pins
